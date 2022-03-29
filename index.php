@@ -7,7 +7,7 @@ include "baza.php";
 <h1>SHAXAR 1 istiqlol</h1>
 <table border="1">
     <tr>
-        <th>Ism</th>
+        <th>Lalaku</th>
         <th>Kochasi</th>
         <th>Uyi</th>
         <th>Telefon nomer</th>
